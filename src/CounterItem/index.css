@@ -1,0 +1,7 @@
+.counter-item-container {
+  display: flex;
+  align-items: center;
+}
+.text-paragraph {
+  margin-right: 10px;
+}
